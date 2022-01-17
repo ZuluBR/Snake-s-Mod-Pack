@@ -1,4 +1,5 @@
-Tooltip_EN = {
-	Tooltip_Bgrip = "Slightly increases bat power.",
-	Tooltip_Bsock = "Increases bat weight and power.",
+Tooltip_PTBR = {
+
+	Tooltip_Bgrip = "Aumenta ligeiramente o poder do taco.",
+	Tooltip_Bsock = "Aumenta o peso e a potência do bastão.",
 }
