@@ -33,7 +33,7 @@ ItemName_PTBR = {
 	ItemName_AmmoMaker.AK47x4Scope = "Mira Telescópica 4x da AK-47",
 	ItemName_AmmoMaker.AK47MilitaryScope = "Mira Telescópica Militar da AK-47",
 	ItemName_AmmoMaker.AkIronSight2 = "Mira de Ferro da AK-47",
-	ItemName_AmmoMaker.WeaponsMagazine4 = "Revista de Munições 'Trabalhos de Armas'",
+	ItemName_AmmoMaker.WeaponsMagazine4 = "Revista de Munições 'Trabalho com Armas'",
 	ItemName_Base.M9Parts = "Partes de Pistola M9",
 	ItemName_Base.M1911Parts = "Partes de Pistola M1911",
 	ItemName_Base.DEParts = "Partes de Pistola D-E",
@@ -48,11 +48,11 @@ ItemName_PTBR = {
 	ItemName_Base.AssaultRifle2Parts = "Partes de Rifle de Assalto M14",
 	ItemName_Base.AK47Parts = "Partes do Rifle de Assalto AK-47",
 
-	ItemName_AmmoMaker.AMBookAReloading1 = "Manual de Recarregar para Iniciantes",
-	ItemName_AmmoMaker.AMBookAReloading2 = "Manual de Recarregar para Intermediários",
-	ItemName_AmmoMaker.AMBookAReloading3 = "Manual de Recarregar Avançado",
-	ItemName_AmmoMaker.AMBookAReloading4 = "Manual de Recarregar para Especialista",
-	ItemName_AmmoMaker.AMBookAReloading5 = "Manual de Recarregar para Mestre",
+	ItemName_AmmoMaker.AMBookAReloading1 = "Manual de Recarga para Iniciantes",
+	ItemName_AmmoMaker.AMBookAReloading2 = "Manual de Recarga para Intermediários",
+	ItemName_AmmoMaker.AMBookAReloading3 = "Manual de Recarga Avançado",
+	ItemName_AmmoMaker.AMBookAReloading4 = "Manual de Recarga para Especialista",
+	ItemName_AmmoMaker.AMBookAReloading5 = "Manual de Recarga para Mestre",
 	ItemName_AmmoMaker.ManualAM = "Manual de Fabricação de Munição",
 	
 }
