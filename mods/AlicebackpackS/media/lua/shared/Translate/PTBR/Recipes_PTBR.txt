@@ -1,5 +1,5 @@
 Recipe_PTBR = {
-    Recipe_Agregar_soporte_a_mochila_Alice = "Adicionar Suporte à Mochila Militar",
+    	Recipe_Agregar_soporte_a_mochila_Alice = "Adicionar Suporte à Mochila Militar",
 	Recipe_Agregar_bolsa_de_almacenaje_a_mochila_Alice = "Adicionar Bolso Tático à Mochila Militar",
 	Recipe_Quitar_bolsa_de_almacenaje_a_mochila_Alice = "Remover Bolso Tático da Mochila Militar",
 	Recipe_Quitar_soporte_a_mochila_Alice = "Remover Suporte da Mochila Militar",
