@@ -1,5 +1,6 @@
-ItemName_EN = {
-	ItemName_BatesMetalicos.MetalBaseballBat = "Metal Baseball Bat",
-	ItemName_BatesMetalicos.Bgrip = "Pro Bat Grip",
-	ItemName_BatesMetalicos.Bsock = "Pro Bat Swing Sock",
+ItemName_PTBR = {
+
+	ItemName_BatesMetalicos.MetalBaseballBat = "Taco de Beisebol de Metal",
+	ItemName_BatesMetalicos.Bgrip = "Empunhadura de Taco Profissional",
+	ItemName_BatesMetalicos.Bsock = "Protetor de Taco Profissional",
 }
