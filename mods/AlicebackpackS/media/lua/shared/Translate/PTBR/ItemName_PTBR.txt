@@ -1,11 +1,11 @@
 ItemName_PTBR = {
-	ItemName_AliceBP.AlicePack = "Mochila Militar Selva",
+	ItemName_AliceBP.AlicePack = "Mochila Militar (Selva)",
 	ItemName_AliceBP.UpgradedAlicePack1 = "Mochila Militar (Suporte)",
 	ItemName_AliceBP.UpgradedAlicePack2 = "Mochila Militar (Suporte + Bolsa)",
 	ItemName_AliceBP.UpgradedAlicePack2b = "Mochila Militar (Suporte + Bolsa)",
 	ItemName_AliceBP.UpgradedAlicePack3 = "Mochila Militar (Bolsa)",
 	ItemName_AliceBP.UpgradedAlicePack3b = "Mochila Militar (Bolsa)",
-	ItemName_AliceBP.AlicePackUrban = "Mochila Militar Urbana",
+	ItemName_AliceBP.AlicePackUrban = "Mochila Militar (Urbana)",
 	ItemName_AliceBP.SpearMilitaryKnife = "Lança com Faca Militar",
-	ItemName_AliceBP.AlicePackDesert = "Mochila Militar Deserto",
+	ItemName_AliceBP.AlicePackDesert = "Mochila Militar (Deserto)",
 }
