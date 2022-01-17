@@ -1,12 +1,13 @@
 Items_PTBR = {
 
-    DisplayNameSoporte_de_mochila_Alice = "Suporte de Mochila Militar com Alças",
-    DisplayNameBolsa_militar_(Urbana) = "Bolso Tático (Urbano)",
-    DisplayNameBolsa_militar_(Jungla) = "Bolso Tático (Selva)",
+	DisplayNameSoporte_de_mochila_Alice = "Suporte de Mochila Militar com Alças",
+	DisplayNameBolsa_militar_(Urbana) = "Bolso Tático (Urbano)",
+	DisplayNameBolsa_militar_(Jungla) = "Bolso Tático (Selva)",
 	DisplayNameMeal_Ready_To_Eat = "Ração Militar",
 	DisplayNameCase_of_MREs = "Caixa de MRE's",
 	DisplayNameMilitary_Canteen_(Empty) = "Cantil Militar (Vazio)",
 	DisplayNameMilitary_Canteen_(Full) = "Cantil Militar (Cheio)",
 	DisplayNameMilitary_knife = "Faca Militar",
 	DisplayNameGrenade_Mk2 = "Granada Mk-2",
+
 }
