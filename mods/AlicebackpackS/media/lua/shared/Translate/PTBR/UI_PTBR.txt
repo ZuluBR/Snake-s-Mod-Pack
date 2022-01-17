@@ -1,7 +1,8 @@
-UI_EN = {
+UI_PTBR = {
 
-    UI_trait_Strongback = "Muscle back",
-	UI_trait_StrongbackDesc = "You can carry more weight (+25% Base Weight)",
-	UI_trait_Metalstrongback = "Iron back",
-	UI_trait_MetalstrongbackDesc = "It's in your cells.<br> You can carry +50% Base Weight",
+	UI_trait_Strongback = "Costas Fortes",
+	UI_trait_StrongbackDesc = "Você pode carregar mais peso (+25% de Peso)",
+	UI_trait_Metalstrongback = "Costas de Ferro",
+	UI_trait_MetalstrongbackDesc = "Está em suas células.<br> Você pode levar +50% de Peso",
+	
 }
