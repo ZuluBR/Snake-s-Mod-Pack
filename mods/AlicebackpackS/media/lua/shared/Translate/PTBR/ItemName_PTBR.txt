@@ -1,11 +1,11 @@
-ItemName_EN = {
-	ItemName_AliceBP.AlicePack = "Jungle Alice Backpack",
-	ItemName_AliceBP.UpgradedAlicePack1 = "Alice backpack (Frame)",
-	ItemName_AliceBP.UpgradedAlicePack2 = "Alice backpack (Frame + Pouch)",
-	ItemName_AliceBP.UpgradedAlicePack2b = "Alice backpack (Frame + Pouch)",
-	ItemName_AliceBP.UpgradedAlicePack3 = "Alice backpack (Pouch)",
-	ItemName_AliceBP.UpgradedAlicePack3b = "Alice backpack (Pouch)",
-	ItemName_AliceBP.AlicePackUrban = "Urban Alice Backpack",
-	ItemName_AliceBP.SpearMilitaryKnife = "Spear With Military Knife",
-	ItemName_AliceBP.AlicePackDesert = "Desert Alice Backpack",
+ItemName_PTBR = {
+	ItemName_AliceBP.AlicePack = "Mochila Militar Selva",
+	ItemName_AliceBP.UpgradedAlicePack1 = "Mochila Militar (Moldura)",
+	ItemName_AliceBP.UpgradedAlicePack2 = "Mochila Militar (Moldura + Bolsa)",
+	ItemName_AliceBP.UpgradedAlicePack2b = "Mochila Militar (Moldura + Bolsa)",
+	ItemName_AliceBP.UpgradedAlicePack3 = "Mochila Militar (Bolsa)",
+	ItemName_AliceBP.UpgradedAlicePack3b = "Mochila Militar (Bolsa)",
+	ItemName_AliceBP.AlicePackUrban = "Mochila Militar Urbana",
+	ItemName_AliceBP.SpearMilitaryKnife = "Lança com Faca Militar",
+	ItemName_AliceBP.AlicePackDesert = "Mochila Militar Deserto",
 }
