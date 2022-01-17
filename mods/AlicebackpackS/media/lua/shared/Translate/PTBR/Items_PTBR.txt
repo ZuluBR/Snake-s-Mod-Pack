@@ -9,5 +9,4 @@ Items_PTBR = {
 	DisplayNameMilitary_Canteen_(Full) = "Cantil Militar (Cheio)",
 	DisplayNameMilitary_knife = "Faca Militar",
 	DisplayNameGrenade_Mk2 = "Granada Mk-2",
-
 }
