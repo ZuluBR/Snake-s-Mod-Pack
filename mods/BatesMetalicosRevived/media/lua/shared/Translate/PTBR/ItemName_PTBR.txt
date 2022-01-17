@@ -2,5 +2,5 @@ ItemName_PTBR = {
 
 	ItemName_BatesMetalicos.MetalBaseballBat = "Taco de Beisebol de Metal",
 	ItemName_BatesMetalicos.Bgrip = "Empunhadura de Taco Profissional",
-	ItemName_BatesMetalicos.Bsock = "Protetor de Taco Profissional",
+	ItemName_BatesMetalicos.Bsock = "Ponta de Taco Profissional",
 }
