@@ -1,3 +1,0 @@
-Stash_EN = {
-    Stash_AMRMap1_Text1 = "The priest of the cemetery was very well armed!!!",
-}
