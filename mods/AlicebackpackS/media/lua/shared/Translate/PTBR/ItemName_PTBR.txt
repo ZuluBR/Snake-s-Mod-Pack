@@ -9,5 +9,4 @@ ItemName_PTBR = {
 	ItemName_AliceBP.AlicePackUrban = "Mochila Militar (Urbana)",
 	ItemName_AliceBP.SpearMilitaryKnife = "Lança com Faca Militar",
 	ItemName_AliceBP.AlicePackDesert = "Mochila Militar (Deserto)",
-	
 }
