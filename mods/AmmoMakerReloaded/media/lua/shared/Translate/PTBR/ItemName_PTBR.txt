@@ -24,7 +24,7 @@ ItemName_PTBR = {
 	ItemName_AmmoMaker.762x39mmBox = "Caixa de Munição de 7.62x39mm",
 	ItemName_AmmoMaker.AKMMag = "Cartucho de 7.62x39mm",
 	ItemName_AmmoMaker.AK47 = "Rifle de Assalto AK-47",
-	ItemName_AmmoMaker.762Can = "Lata de Munição de 7.62x39mm",
+	ItemName_AmmoMaker.762Can = "Caixa Militar de 7.62x39mm",
 	
 	ItemName_AmmoMaker.AmmoMagazine14 = "Revista de Munições N.11",
 	ItemName_AmmoMaker.AKHG = "Protetor de Mão de Madeira da AK-47",
