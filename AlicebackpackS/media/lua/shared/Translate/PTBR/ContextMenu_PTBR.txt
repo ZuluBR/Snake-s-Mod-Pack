@@ -1,4 +1,0 @@
-ContextMenu_EN = {
-	ContextMenu_OpenMRE = "Open MRE packet",
-	ContextMenu_OpenMREBox = "Open MRE box",
-}
