@@ -51,11 +51,11 @@ Items_PTBR = {
 	DisplayNameCal_9mm_Canister = "Caixa Militar de 9mm",
 	DisplayNameCal_223_Canister = "Caixa Militar de .223",
 	DisplayNameCal_308_Canister = "Caixa Militar de .308",
-	DisplayNameShotgun_Ammo_Canister = "Caixa Militar com Cartuchos de Espingarda",
+	DisplayNameShotgun_Ammo_Canister = "Caixa Militar com Munições de Espingarda",
 	DisplayNameGun_Powder_Box = "Caixa de Pólvora",
 
 	DisplayName5.56x45mm_rounds = "Munições 5.56x45",
-	DisplayNameStandard_STANAG_magazine = "Cartucho Padrão STANAG",
+	DisplayNameStandard_STANAG_magazine = "Pente Padrão STANAG",
 	DisplayNameM249_Belt = "Bandoleira de M249",
 	DisplayNameM16_(Select_Fire) = "Rifle de Assalto M16",
 	DisplayNameM249 = "M249",
@@ -84,7 +84,7 @@ Items_PTBR = {
 	DisplayNameM16_(Cammo) = "Rifle de Assalto M16 (Selva)",
 	DisplayNameAmmunition_Magazine_6 = "Revista 'Ferramenta de Recarregamento'",
 
-	DisplayNameAK_Magazine(cal.762x39mm) = "Cartucho da AK-47",
+	DisplayNameAK_Magazine(cal.762x39mm) = "Pente da AK-47",
 	DisplayNameAK47_Rifle = "Rifle de Assaulto AK-47",
 	DisplayName762x39mm_rounds = "Munição de 762x39",
 	DisplayNameBox_of_762x39mm = "Caixa de Munição de 762x39",
