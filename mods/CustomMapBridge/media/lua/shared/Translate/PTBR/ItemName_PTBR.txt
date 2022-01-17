@@ -1,5 +1,6 @@
-ItemName_EN = {
-	ItemName_Base.PMRMTire = "Dismounted Tire",
-	ItemName_Base.PMRMTireMachine = "Tire Machine",
-	ItemName_Base.UnknownTire = "Tire (Unknown)",
+ItemName_PTBR = {
+
+	ItemName_Base.PMRMTire = "Pneu Desmontado",
+	ItemName_Base.PMRMTireMachine = "Máquina de Pneus",
+	ItemName_Base.UnknownTire = "Pneu (Desconhecido)",
 }
