@@ -1,6 +1,6 @@
-UI_EN = {
+UI_PTBR = {
 
-    IGUI_CraftCategory_Ammo = "Reloading",
-	IGUI_perks_AMReloading = "Reloading Ammo",
-	IGUI_ItemCat_Reloading = "Reloading",
+	IGUI_CraftCategory_Ammo = "Recarregando",
+	IGUI_perks_AMReloading = "Recarregando Munição",
+	IGUI_ItemCat_Reloading = "Recarregando",
 }
