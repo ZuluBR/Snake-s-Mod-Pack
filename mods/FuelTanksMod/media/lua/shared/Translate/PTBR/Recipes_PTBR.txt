@@ -1,5 +1,5 @@
-Recipe_EN = {
+Recipe_PTBR = {
 
-  Recipe_Craft_Fuel_Tanks = "Craft Fuel Tanks",
+  Recipe_Craft_Fuel_Tanks = "Fabricar Tanques de Combustível",
 
 }
