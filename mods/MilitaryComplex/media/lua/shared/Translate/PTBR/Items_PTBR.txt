@@ -1,3 +1,4 @@
-Items_ES = {
-	DisplayNameMilitary_Complex_Map = "Military Complex Map",
+Items_PTBR = {
+
+	DisplayNameMilitary_Complex_Map = "Mapa do Complexo Militar",
 }
