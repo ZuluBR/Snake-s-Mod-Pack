@@ -1,5 +1,4 @@
 Recipe_PTBR = {
 
-  Recipe_Craft_Fuel_Tanks = "Fabricar Tanques de Combustível",
-
+  Recipe_Craft_Fuel_Tanks = "Fabricar Tanque de Combustível",
 }
