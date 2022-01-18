@@ -1,9 +1,9 @@
-Tooltip_EN = {
+Tooltip_PTBR = {
 	
-	Tooltip_Craft Fuel Tanks = "Build Fuel Tank",
-	Tooltip_needrecipe = "Recipe needed: ",
-	Tooltip_craft_FuelTankDesc = "Can be used to store fuel.      ",
-	Tooltip_ftalreadyknownrecipe = " (Already knows the recipe)",
-	Tooltip_FuelMeter = "You can use it to measure the remaining units of gasoline from a gas pump.",
-	Tooltip_FAmount = "Units of gasoline remaining: ",
+	Tooltip_Craft_Fuel_Tanks = "Construir Tanque de Combustível",
+	Tooltip_needrecipe = "Receita necessária: ",
+	Tooltip_craft_FuelTankDesc = "Pode ser usado para armazenar combustível.",
+	Tooltip_ftalreadyknownrecipe = "(Já sabe a receita)",
+	Tooltip_FuelMeter = "Você pode usá-lo para medir os litros restantes de gasolina de uma bomba de gasolina.",
+	Tooltip_FAmount = "Litros de gasolina restantes: ",
 }
