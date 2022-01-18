@@ -106,7 +106,7 @@ Tooltip_PTBR = {
 	Tooltip_Sow_Habanero = "Semear Pimenta Habanero",
 	Tooltip_Sow_Jalapeno = "Semear Pimenta-jalapenho",
 	Tooltip_Sow_Wheat = "Semear Trigo",
-	Tooltip_Sow_Sugarcane = "Semear Cana de Açúcar",
+	Tooltip_Sow_Sugarcane = "Semear Cana-de-açúcar",
 	Tooltip_Sow_Sunflower = "Semear Girassol",
 	Tooltip_Sow_Tobacco = "Semear Tabaco",
 
