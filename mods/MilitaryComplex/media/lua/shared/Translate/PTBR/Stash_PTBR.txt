@@ -1,3 +1,4 @@
-Stash_ES = {
-    Stash_McMap1_Text1 = "Hey Bob, you can found something special here!!!!!",
+Stash_PTBR = {
+
+    Stash_McMap1_Text1 = "Ei Bob, você pode encontrar algo especial aqui!!!!!",
 }
