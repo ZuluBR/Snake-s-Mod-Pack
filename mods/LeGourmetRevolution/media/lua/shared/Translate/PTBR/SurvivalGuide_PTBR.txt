@@ -1,7 +1,7 @@
 SurvivalGuide_PTBR = {
 
 	SurvivalGuide_entrieray = "<H1> ARRAIA JAMANTA DE ÁGUA DOCE <BR> <IMAGECENTRE:ray> <LINE>" ..
-            "<H1>Descrição <LINE> <TEXT> Potamotrygon brachyura, comumente referido como um raio de rio, é uma espécie do gênero de peixe de água doce Potamotrygon, da família Potamotrygonidae na ordem dos Myliobatiformes. Vive em ambientes aquáticos na quente América do Sul. O maior comprimento é de cerca de 200 cm, pesando 208 kg. <BR> <H1> " ..
+            "<H1>Descrição <LINE> <TEXT> Potamotrygon brachyura, comumente referido como uma arraia de rio, é uma espécie do gênero de peixe de água doce Potamotrygon, da família Potamotrygonidae na ordem dos Myliobatiformes. Vive em ambientes aquáticos na quente América do Sul. O maior comprimento é de cerca de 200 cm, pesando 208 kg. <BR> <H1> " ..
             "<H1>Comportamento <LINE> <TEXT> Habita no fundo lodoso ou arenoso dos rios e córregos, passando facilmente despercebido graças à sua coloração críptica. <LINE> <TEXT> Como forma de defesa, este peixe é dotado de uma espinha fina e afiada localizada na parte de trás da cauda, quando algumas pessoas pisam acidentalmente nela, a arraia arqueia o corpo e sua cauda, para pregar imediatamente profundamente sua picada em algum músculo da perna do infeliz, que produzirá uma ferida ulcerosa, um rebelde curador. Por esta razão é um animal odiado e temido. <BR> <H1> " ..
             "<H1>Alimentação <LINE> <TEXT> Alimenta-se principalmente de outros peixes que captura com a técnica de espreita, permanecendo imóvel e semi-enterrado à espera da passagem de alguma presa, que será atacada de surpresa. <BR> <H1> " .. 
 			"<H1>Imagens <LINE> " ..
