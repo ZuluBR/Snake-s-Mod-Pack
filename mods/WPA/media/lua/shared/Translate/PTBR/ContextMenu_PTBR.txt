@@ -1,8 +1,8 @@
-ContextMenu_EN = {
+ContextMenu_PTBR = {
 
-	ContextMenu_RepairSilencer = "Repair silencer",
-	ContextMenu_RepairS = "Repair",
-	ContextMenu_RepairSilencerTT = "With this repair kit you can repair a silencer 10% per use.",
-	ContextMenu_fixing = "Fixing",
-	ContextMenu_cantequipsilencer = "This weapon part is totally damaged.",
+	ContextMenu_RepairSilencer = "Reparar Silenciador",
+	ContextMenu_RepairS = "Reparar",
+	ContextMenu_RepairSilencerTT = "Com este kit de reparo, você pode reparar um silenciador 10% por uso.",
+	ContextMenu_fixing = "Fixando",
+	ContextMenu_cantequipsilencer = "Esta parte da arma está totalmente danificada.",
 }
