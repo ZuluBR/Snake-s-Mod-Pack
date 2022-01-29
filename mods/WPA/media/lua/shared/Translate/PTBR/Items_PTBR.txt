@@ -1,4 +1,4 @@
-Items_EN = {
+Items_PTBR = {
 	DisplayNameSilencer = "Silenciador",
 	DisplayNameHome_Made_Silencer = "Silenciador Caseiro",
 	DisplayNameSponge_tube = "Tubo de Esponja",
