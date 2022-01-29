@@ -3,6 +3,6 @@ ContextMenu_PTBR = {
 	ContextMenu_RepairSilencer = "Reparar Silenciador",
 	ContextMenu_RepairS = "Reparar",
 	ContextMenu_RepairSilencerTT = "Com este kit de reparo, você pode reparar um silenciador 10% por uso.",
-	ContextMenu_fixing = "Fixando",
+	ContextMenu_fixing = "Fixação",
 	ContextMenu_cantequipsilencer = "Esta parte da arma está totalmente danificada.",
 }
